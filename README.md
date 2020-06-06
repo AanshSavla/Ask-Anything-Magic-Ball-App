@@ -1,10 +1,8 @@
 # Ask-Anything-Magic-Ball-App
 Starting App and Typing Question
-![m81](https://user-images.githubusercontent.com/54212786/83944462-57e16d80-a821-11ea-89a7-7f075fe42a0e.jpeg)
+![m81b](https://user-images.githubusercontent.com/54212786/83944619-7005bc80-a822-11ea-8795-18ea67e0cfdc.jpg)
 Tapping on Black Ball
-![m82](https://user-images.githubusercontent.com/54212786/83944534-b575ba00-a821-11ea-9fdd-9a6daf463516.jpeg)
-
-
+![m82b](https://user-images.githubusercontent.com/54212786/83944625-7c8a1500-a822-11ea-93cc-682407f1b6bc.jpg)
 
 
 
